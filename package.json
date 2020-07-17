@@ -18,7 +18,7 @@
     "@theledger/fabric-chaincode-utils": "^4.0.3",
     "@types/lodash": "^4.14.136",
     "fabric-shim": "^1.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "winston": "^3.2.1",
     "yup": "^0.27.0"
   },
